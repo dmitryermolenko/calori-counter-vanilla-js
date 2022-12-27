@@ -1,1 +1,1 @@
-# calori-counter-vanilla-js
+# calorie-counter-vanilla-js
